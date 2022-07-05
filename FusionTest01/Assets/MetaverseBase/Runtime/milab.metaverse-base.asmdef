@@ -1,0 +1,24 @@
+{
+    "name": "milab.metaverse-base",
+    "rootNamespace": "",
+    "references": [
+        "Oculus.VR",
+        "PhotonRealtime",
+        "PhotonVoice.PUN",
+        "PhotonUnityNetworking",
+        "PhotonChat",
+        "PhotonUnityNetworking.Demos",
+        "Oculus.AvatarSDK2",
+        "Oculus.AvatarSDK2.Example",
+        "Oculus.AvatarSDK2.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
