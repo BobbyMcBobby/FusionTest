@@ -599,6 +599,7 @@ PlayerSettings:
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
     0: FUSION_WEAVER
+    1: FUSION_WEAVER
     7: FUSION_WEAVER
   additionalCompilerArguments: {}
   platformArchitecture: {}
