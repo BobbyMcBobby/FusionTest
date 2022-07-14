@@ -950,6 +950,7 @@ ParticleSystem:
   m_PrefabInstance: {fileID: 3297402771153202953}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &6019902652567541571
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1017,9 +1018,14 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
   m_PrefabInstance: {fileID: 6019902652567541571}
 =======
+=======
+>>>>>>> parent of 465cd44 (kojhv)
 --- !u!4 &2937585060775518698 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 362219081622703843, guid: fc9c47ef068abce44afbb23a75a3d1c0, type: 3}
   m_PrefabInstance: {fileID: 3297402771153202953}
+<<<<<<< HEAD
+>>>>>>> parent of 465cd44 (kojhv)
+=======
 >>>>>>> parent of 465cd44 (kojhv)
   m_PrefabAsset: {fileID: 0}
